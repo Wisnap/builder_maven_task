@@ -29,9 +29,9 @@
   </dependencies>
 
   <modules>
-    <module>db</module>
-    <module>api</module>
-    <module>service</module>
+    <module>src/db</module>
+    <module>src/service</module>
+    <module>src/api</module>
   </modules>
 
   <build>
